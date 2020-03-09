@@ -1,2 +1,2 @@
 # ideas
-node js  express js pasport js 
+using node js , express js , passportjs , handlebars, mongodb and mongoose
